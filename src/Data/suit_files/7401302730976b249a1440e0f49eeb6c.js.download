@@ -1,0 +1,2 @@
+Bootstrapper.bindImmediate(function(){var Bootstrapper=window["Bootstrapper"];var ensightenOptions=Bootstrapper.ensightenOptions;var assistiveSiteEnabledCookie=Bootstrapper.Cookies.get("usableNetAssistive");if(assistiveSiteEnabledCookie==null||assistiveSiteEnabledCookie!=="true"){var qtm=document.createElement("script");qtm.type="text/javascript";qtm.async=1;qtm.src=window.location.protocol+"//cdn.quantummetric.com/qscripts/quantum-jcp.js";var d=document.getElementsByTagName("script")[0];!window.QuantumMetricAPI&&
+d.parentNode.insertBefore(qtm,d)}},2961781,538332,24);

@@ -1,0 +1,5 @@
+.Nav{
+  display: flex;
+  flex: 0 0 40%;
+  justify-content: space-evenly;
+}

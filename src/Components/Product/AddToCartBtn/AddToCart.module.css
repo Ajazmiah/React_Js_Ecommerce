@@ -1,0 +1,22 @@
+.Button{
+    width: 100%;
+    padding: 10px;
+    outline: none;
+    border: none;
+    background: #424242c4;
+    color: #fff;
+    font-family: auto;
+    transition: .2s;
+    animation-timing-function: ease-in;
+    cursor: pointer;
+}
+/* ///REMOVE ITEM BUTTON */
+.Remove{
+  border: none;
+  outline: none;
+  padding: 10px;
+  background: #a78933;
+  color: #fff;
+  border-radius: 10px;
+  cursor: pointer;
+}
