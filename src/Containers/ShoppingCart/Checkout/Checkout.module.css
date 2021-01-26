@@ -1,5 +1,6 @@
 .CheckoutWrapper{
   display: flex;
+  color: #fff;
 
 }
 .Total{
@@ -9,7 +10,7 @@
 }
 
 .Form{
-  flex: 0 0 55%;
+  flex:auto;
   text-align: center;
   padding: 0.5rem;
   background: black;
@@ -38,6 +39,7 @@
 .OrderDetails{
   display: flex;
   flex-direction: column;
-  flex: 0 0 35%;
+  flex: 0 0 40%;
   padding: 2rem;
+  background: #181818;
 }

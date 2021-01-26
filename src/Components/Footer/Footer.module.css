@@ -1,0 +1,15 @@
+.Footer{
+  background: black;
+color: #fff;
+/* text-align: center; */
+padding: 1rem;
+}
+.Footer img{
+  height: 100px;
+}
+.Footer p{
+  text-align: center;
+text-transform: uppercase;
+font-family: sans-serif;
+font-size: .8rem;
+}

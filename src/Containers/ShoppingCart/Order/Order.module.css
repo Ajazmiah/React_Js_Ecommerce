@@ -1,0 +1,15 @@
+.Order{
+  font-size: .9rem;
+    background: #000000bd;
+    color: #fff;
+    padding: 2rem;
+    margin-top: 1rem;
+    box-shadow: -1px 0px 9px 0px black;
+    width: 60%;
+    margin: 0 auto;
+    margin-top: 1rem;
+    cursor: pointer;
+}
+.Order li{
+  list-style: none;
+}
